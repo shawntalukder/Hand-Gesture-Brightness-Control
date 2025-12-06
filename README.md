@@ -42,7 +42,7 @@ This project showcases how Computer Vision can be used to interact with the comp
 
         Index Finger Tip → Landmark 8
 
-4. A line is drawn between the two points, and the distance is calculated.
+4. A line is drawn between the two points, and the distance is calculated
 
         If the distance is large → Brightness Up
    
